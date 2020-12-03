@@ -1,0 +1,208 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"  
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "DOFA_dirigido_a_Negocios_verdes",
+    "title": "1. DOFA dirigido a Negocios verdes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "DOFA_dirigido_a_Negocios_verdes",
+        "title": "1.1. Objetivo",
+        "anchor": "11"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "DOFA_dirigido_a_Negocios_verdes",
+        "title": "1.2. Ventajas y desventajas",
+        "anchor": "12"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "DOFA_dirigido_a_Negocios_verdes",
+        "title": "1.3. Elaboración",
+        "anchor": "13"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "DOFA_dirigido_a_Negocios_verdes",
+        "title": "1.4. Ejemplo DOFA enfocado a Negocios verdes",
+        "anchor": "14"
+      }      
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Consumidor_ecologico",
+    "title": "2. Consumidor ecológico",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Creacion_de_valor_compartido",
+    "title": "3. Creación de valor compartido",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/3-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Comercio_Justo",
+    "title": "4. Comercio Justo",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Comercio_Justo",
+        "title": "4.1. Los diez principios del comercio justo",
+        "anchor": "41"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Comercio_Justo",
+        "title": "4.2. Organización Internacional de Comercio Justo",
+        "anchor": "42"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Comercio_Justo",
+        "title": "4.3. Certificación de Comercio Justo (FLO) ",
+        "anchor": "43"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Compras_Publicas_Sostenibles",
+    "title": "5. Compras Públicas Sostenibles",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/5-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Compras_Publicas_Sostenibles",
+        "title": "5.1. Plan Nacional de Compras Públicas Sostenibles",
+        "anchor": "51"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Tendencias_del_mercado",
+    "title": "6. Tendencias del mercado",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/6-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Tendencias_del_mercado",
+        "title": "6.1. Economía circular",
+        "anchor": "61"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Tendencias_del_mercado",
+        "title": "6.2. Economía lineal",
+        "anchor": "62"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Tendencias_del_mercado",
+        "title": "6.3. Economía circular vs economía lineal",
+        "anchor": "63"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Tendencias_del_mercado",
+        "title": "6.4. Ventajas de la economía circular",
+        "anchor": "64"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Tendencias_del_mercado",
+        "title": "6.5. Economía solidaria",
+        "anchor": "65"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Tendencias_del_mercado",
+        "title": "6.6. Economía colaborativa",
+        "anchor": "66"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Emprendimiento_en_Negocios_verdes",
+    "title": "7. Emprendimiento en Negocios verdes",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/7-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Emprendimiento_en_Negocios_verdes",
+        "title": "7.1. Marketing verde",
+        "anchor": "71"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Emprendimiento_en_Negocios_verdes",
+        "title": "7.2. Mezcla del marketing verdel",
+        "anchor": "72"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Sistema_de_produccion_organico_biologico_y_ecologico",
+    "title": "8. Sistema de producción orgánico, biológico y ecológico",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/8-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Sistema_de_produccion_organico_biologico_y_ecologico",
+        "title": "8.1. Diferencias entre productos ecológicos, biológicos y orgánicos",
+        "anchor": "81"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Sistema_de_produccion_organico_biologico_y_ecologico",
+        "title": "8.2. Normativa",
+        "anchor": "82"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Biodiversidad_en_Colombia",
+    "title": "9. Biodiversidad en Colombia",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/9-tema.html"
+  }
+]
